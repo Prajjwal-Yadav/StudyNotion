@@ -2,7 +2,6 @@
 
 To run the Project 
 <br>
-\n
 git clone https://github.com/Prajjwal-Yadav/StudyNotion.git
 <br>
 cd StudyBotion
